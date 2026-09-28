@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+redline-os-mateus.sillence.chatgpt.site	TRUE	/	FALSE	1999999999	__cf_bm	aSCRuXdbAAqdJBeHmIsH_uiMbGxnpvgwYfzJhn6qOHo-1790614985.6201637-1.0.1.1-vdt0sdD.xQAW3vOTU.0vXFV_CamU406TDh19glOZmP9VITG.T_kfEKtafl58TsyMwoPU0qLT4eON9CKSMl7P5oSVV2omlCiHoUkP5u7r6uzdAF7KsKoyYiFOQfqy.xpg
+chatgpt.site	TRUE	/	FALSE	1999999999	SameSite	None
+

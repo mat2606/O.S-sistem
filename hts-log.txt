@@ -1,0 +1,11 @@
+HTTrack3.50-4 launched on Mon, 28 Sep 2026 14:03:02 at https://redline-os-mateus.sillence.chatgpt.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "pt_BR, en, *" https://redline-os-mateus.sillence.chatgpt.site/ -O1 "C:\Meus Sites\O.S Sistem" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.50-4 mirror complete in 6 seconds : 10 links scanned, 9 files written (912957 bytes overall) [249812 bytes received at 41635 bytes/sec], 914728 bytes transferred using HTTP compression in 10 files, ratio 26%, 5.5 requests per connection
+(No errors, 0 warnings, 0 messages)
